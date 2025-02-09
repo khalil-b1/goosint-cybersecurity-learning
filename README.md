@@ -86,14 +86,14 @@ _Platforms focused on cyber defense and blue team operations._
 - [BlueTeamsLabs Online](https://blueteamlabs.online) - Cyber defense simulations and incident response.  
 - [CyberDefenders](https://cyberdefenders.org) - Hands-on blue team challenges.  
 
-### General Cybersecurity Training 
+### [↑](#table-of-contents) General Cybersecurity Training 
 _Hands-on learning platforms for various cybersecurity topics._ 
 - [Cybrary](https://www.cybrary.it) - Online cybersecurity courses and labs.  
 - [Hackropole](https://hackropole.fr/fr/) - French cybersecurity training platform.  
 - [ImmersiveLabs](https://www.immersivelabs.com/hands-on-labs/) - Interactive cybersecurity skills training.  
 - [Veracode Labs](https://www.veracode.com/products/security-labs-community-edition) - Application security labs.  
 
-### OSINT and Cryptography
+### [↑](#table-of-contents) OSINT and Cryptography
 _Platforms specialized in OSINT and cryptography challenges._
 - [OSINTOPIA](https://ozint.eu) - Open-source intelligence (OSINT) challenges.  
 - [CryptoHack](https://cryptohack.org) - Cryptography challenges and puzzles.
