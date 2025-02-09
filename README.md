@@ -7,7 +7,7 @@ Enjoy them! 🧙‍♂️
 
 ## Table of Contents
 - [Cybersecurity Courses](#-cybersecurity-courses)
-- [Cybersecurity Practisioning Platforms](#-cybersecurity-practisioning-platforms)
+- [Cybersecurity Practical Platforms](#-cybersecurity-practical-platforms)
   - [Attack and Defense](#-attack-and-defense)
   - [Attack](#-attack)
   - [Defense](#-defense)
@@ -52,7 +52,7 @@ _Free and paid courses covering cybersecurity fundamentals, certifications, and 
 - [Introduction to Risk Management Framework (NIST)](https://csrc.nist.gov/projects/risk-management/rmf-courses) - 4 courses - Intermediate.  
 - [Cyber Talent Kids](https://cybertalentskids.com/challenges?fbclid=IwAR3MBVoGBwHkaEk2TIbIWYMu_cTnss6kOLCjL-mwrO7B1r-6lzPw9Yv7BDw) - Kids - Beginner.
 
-## [↑](#table-of-contents) Cybersecurity Practisioning Platforms 
+## [↑](#table-of-contents) Cybersecurity Practical Platforms 
 _Practical platforms for attack, defense, and general cybersecurity skills._ 
 
 ### [↑](#table-of-contents) Attack and Defense 
