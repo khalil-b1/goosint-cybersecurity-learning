@@ -1,9 +1,7 @@
 # Goosint Cybersecurity Learning [![Powered by Badge](https://github.com/khalil-b1/goosint/raw/main/media/powered-by-badge.png)](https://github.com/khalil-b1/goosint/tree/main)
 A curated list of amazing tools and resources related to cybersecurity learning and practicing platforms.
 
-Most of the tools are completely free, but some are paid to get the certificate.
-
-Enjoy them! 🧙‍♂️
+Most of the tools are completely free, but some you need to pay to get the certificate. Enjoy them! 🧙‍♂️
 
 ## Table of Contents
 - [Cybersecurity Courses](#-cybersecurity-courses)
